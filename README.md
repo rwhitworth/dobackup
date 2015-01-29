@@ -1,5 +1,5 @@
 # dobackup
-Perl script to separate files by CD/DVD size for easy backups
+Perl script to help with easy backups
 
 "dobackup.pl" version 0.04 is a Perl based backup system
 
