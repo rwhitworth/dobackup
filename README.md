@@ -31,7 +31,7 @@ You can run dobackup.pl any time you want, although you don't want more than one
 
 You can invoke it with:<br>
 ```
-# perl dobackup.pl<br>
+# perl dobackup.pl
 ```
 and it will run based on the configuration files in directories/*.ini and it will output its status to the screen every time it starts or stops a script.
 
